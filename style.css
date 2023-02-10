@@ -1,0 +1,99 @@
+
+
+.div1{
+    text-align: center;
+
+
+
+}
+
+.div3{
+    
+}
+.div4{
+
+
+
+    text-align: left;
+    table-layout:auto;
+    
+}
+
+
+
+.div5{
+
+
+    text-align: left;
+}
+
+img{
+    width: 100px;
+}
+
+.column1
+{
+    width: 30%;
+    border-right: 1px solid black;
+    padding: 20px;
+    
+    
+  
+}
+
+.column2
+{
+    width: 70%;
+    padding: 20px;
+}
+
+.flex
+{
+
+  display:flex;
+  padding: 15px;
+  background-color: aliceblue;
+  
+}
+
+
+
+.getInfo
+{
+    text-align: center;
+    color: black;
+    
+}
+
+.container
+{
+
+}
+
+body
+{
+    background-color: aliceblue;
+    font-family: Helvetica;
+}
+
+form
+{
+    padding: 15px;
+}
+input
+{
+    margin: 15px;
+    padding: 10px;
+}
+
+.logos
+{
+    height: 50px;
+    
+}
+
+h1
+{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
